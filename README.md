@@ -1,4 +1,7 @@
 # assignment4-SaiCharanReddyObiliachigari
+
+"NOTE: Note: Since the time given is today 12AM. the data we coundn't able to download and import in our Data Bricks. I worked on Bandana's Computer She has the data imported readyly."
+
 assignment4-SaiCharanReddyObiliachigari created by GitHub Classroom
 
 Apache Spark is an open-source distributed general-purpose cluster-computing framework. 
